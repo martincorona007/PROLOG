@@ -1,0 +1,5 @@
+print()
+:l cuadrante.hs
+cuadrante(5,-2)
+
+
